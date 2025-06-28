@@ -1,0 +1,2 @@
+# webscriping_Training
+ウェブスクレイピングを練習するために作った
